@@ -1,0 +1,28 @@
+
+h2{
+  font-size: 30px;
+}
+h1{
+  font-size: 48px;
+  color: #5E6C82;
+}
+.tableContainer{
+  width: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  border: 2px solid #5E6C82;
+  padding: 10px 20px;
+  margin: 30px 0;
+}
+.tableScore{
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px 50px;
+}
+.score{
+  color: #3e52a3;
+  font-size: 16px;
+  font-weight: 500;
+}
